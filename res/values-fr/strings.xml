@@ -173,7 +173,7 @@
     <string name="enable_fast_torch_summary">Bien que votre écran soit éteint, vous pouvez faire un appui long sur la touche d\'alimentation pour allumer la torche. Lacher le bouton d\'alimentation pour éteindre la torche.</string>
     <string name="lockscreen_quick_unlock_control_title">Déverouillage code PIN rapide</string>
     <string name="lockscreen_quick_unlock_control_summary">Déverouille l\'écran par PIN sans devoir faire appuyer sur Entrer</string>
-    <string name="lockscreen_wallpaper_title">Choisir le fond d\'écran de l'écran de verrouillage</string>
+    <string name="lockscreen_wallpaper_title">Choisir le fond d\'écran de l\'écran de verrouillage</string>
     <string name="lockscreen_wallpaper_summary">Vous pouvez enlever le fond d\'écran à partir du menu dans cette fenêtre</string>
     <string name="lockscreen_text_color_title">Couleur du texte de l\'écran de verrouillage</string>
     <string name="lockscreen_calendar">Calendrier sur l\'écran de verrouillage</string>
@@ -186,7 +186,7 @@
     <string name="lockscreen_calendar_use_colors_title">Utiliser les couleurs</string>
     <string name="lockscreen_calendar_use_colors_summary">Si cette option est activée, les événements seront de couleur comme dans votre calendrier.</string>
     <string name="lockscreen_calendar_hide_ongoing_title">Masquer les événements</string>
-    <string name="lockscreen_calendar_hide_ongoing_summary">Si cette option est activée, les événements qui ont déjà commencé ne s'affiche pas.</string>
+    <string name="lockscreen_calendar_hide_ongoing_summary">Si cette option est activée, les événements qui ont déjà commencé ne s\'affiche pas.</string>
     <string name="lockscreen_calendar_flip_title">Evenements multiples</string>
     <string name="lockscreen_calendar_flip_summary">Si cette option est activée, le widget affiche plusieurs événements en faisant basculer entre eux.</string>
     <string name="lockscreen_calendar_interval_title">Flip intervalle</string>
@@ -228,7 +228,7 @@
     <string name="title_led_off">Durée de pause de la LED</string>
     <string name="summary_led_off">"Temps pendant lequel la LED sera éteinte lorsqu\'elle clignote (notification)"</string>
     <string name="led_color_title">Couleur de la LED</string>
-    <string name="title_led_screen_on">Flash LED lorsque l'\écran est allumé</string>
+    <string name="title_led_screen_on">Flash LED lorsque l\'écran est allumé</string>
     <string name="summary_led_screen_on">@null</string>
 
     <!--  Statusbar | General -->
@@ -275,7 +275,7 @@
     <string name="enable_alarm_title">"Activer l\'icône d\'alarme"</string>
     <string name="enable_alarm_summary">"Afficher ou non l\'icône de l\'alarme. Nécessite une réactivation de celles-ci ou un redémarrage du téléphone."</string>
     <string name="enable_clock_weekday">Jour de la semaine</string>
-    <string name="enable_clock_weekday_summary">Jour abrégé de la semaine avant l'heure</string>
+    <string name="enable_clock_weekday_summary">Jour abrégé de la semaine avant l\'heure</string>
 
     <!-- Statusbar | Toggles -->
     <string name="toggle_style_title">Style des interrupteurs</string>
@@ -338,7 +338,7 @@
     <string name="weather_start_custom_app_summary">Démarrer une application personnalisée lorsque vous cliquez sur l\'image météo.</string>
     <string name="weather_custom_app_title">Application personnalisée</string>
     <string name="weather_custom_app_dialog_title">Choisir votre application</string>
-    <string name="weather_custom_app_dialog_message">Nom du package pour l'instant.</string>
+    <string name="weather_custom_app_dialog_message">Nom du package pour l\'instant.</string>
 	
 	<!-- Dialog Titles -->
     <string name="dt_free_memory">Minfree Taskkiller</string>
